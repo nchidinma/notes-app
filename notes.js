@@ -84,7 +84,6 @@ const readNote = (title) => {
 
 // exports getnotes and addnote functions. These functions can then be used in other files
 module.exports = {
-    getNotes: getNotes,
     addNote: addNote,
     removeNote: removeNote,
     listNotes: listNotes,
